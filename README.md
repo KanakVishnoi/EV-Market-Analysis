@@ -67,7 +67,7 @@ Note: The workbook filename and folder structure above are examples. Keep the ac
 
 ## 📊 Dataset Description
 
-The dataset, `electric_vehicles_spec_2025.csv`, contains technical specifications for electric vehicle models.
+The dataset,"C:\Users\HP\Desktop\EVs-Market-Analysis\electric_vehicles_spec_2025.csv" , contains technical specifications for electric vehicle models.
 
 Important fields include:
 
@@ -84,7 +84,7 @@ Important fields include:
 
 The dataset is used for descriptive and exploratory analysis.
 
-**Data source:** Add the original dataset download page or source URL here before submitting.
+Data source: Add the original dataset download page or source URL here before submitting.
 
 ## 🧹 Data Collection & Preparation
 
@@ -165,8 +165,7 @@ Dashboard features:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/EV-Market-Analysis.git
-cd EV-Market-Analysis
+ https://github.com/KanakVishnoi/EV-Market-Analysis/edit/main/README.md
 ```
 
 Install the required packages:
